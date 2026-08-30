@@ -1,4 +1,18 @@
-# Private Campaign Services
+# 🏴‍☠️ Private Campaign Services
+
+Welcome to **DUPEWON's Private Campaign Infrastructure**. We provide high-performance, strictly offshore, and privacy-guaranteed VDS and Dedicated bare-metal servers. This infrastructure is designed specifically for advanced campaigns, heavy traffic, and uncompromising operational security.
+
+> 📊 **[Click here to view our Infrastructure Benchmarks (YABS / Geekbench / Network Speeds)](BENCHMARK.md)**
+
+### ⚡ Core Advantages
+- **100% Privacy Guaranteed:** No logs. No unnecessary questions. Your data and traffic belong entirely to you.
+- **Unmetered Bandwidth:** True 1 Gbit/s unmetered speeds guaranteed at the switch for heavy campaign loads.
+- **DUPE-1 Architecture:** Elite bare-metal AMD Ryzen 9700X servers equipped with DDR5 ECC memory and NVMe RAID arrays.
+- **Proxmox Ready:** Full virtualization support on all dedicated hardware tiers.
+
+---
+
+### 🏷️ Pricing & Specifications
 
 ```text
 ╔═════════════════════════════════════════════════════════════════════════╗
