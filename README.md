@@ -61,7 +61,7 @@ Welcome to **DUPEWON's Private Campaign Infrastructure**. We provide high-perfor
 ║                                                                         ║
 ║   [+] CONTACT & VERIFICATION                                            ║
 ║   -------------------------------------------------------------------   ║
-║       > CheatGlobal : whuq                                              ║
+║       > CheatGlobal : dupewon1337                                       ║
 ║       > GitHub      : dupewon                                           ║
 ║       > Discord     : dupewon                                           ║
 ║       > Telegram    : dupewon1337                                       ║
