@@ -64,6 +64,6 @@ Welcome to **DUPEWON's Private Campaign Infrastructure**. We provide high-perfor
 ║       > CheatGlobal : dupewon1337                                       ║
 ║       > GitHub      : dupewon                                           ║
 ║       > Discord     : dupewon                                           ║
-║       > Telegram    : dupewon1337                                       ║
+║       > Telegram    : dupewonofficial                                   ║
 ║                                                                         ║
 ╚═════════════════════════════════════════════════════════════════════════╝
